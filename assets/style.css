@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'TypistRegular';
+    src:  url('TypistRegular.ttf') format('truetype')
+}
+
+body {
+    background-color: #FFF0CB;
+}
+
+h1, p {
+    font-family: 'TypistRegular', sans-serif;
+}
+
+h1 {
+    font-size: 64px;
+}
+
+
